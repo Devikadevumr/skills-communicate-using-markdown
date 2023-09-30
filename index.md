@@ -15,3 +15,4 @@
 
 
 ### EDITED MY FILE WITH HEADER. 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
